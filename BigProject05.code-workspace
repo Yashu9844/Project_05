@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../BigProject03"
+		},
+		{
+			"path": "../BigProject04"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BigProject05"
+	}
+}
