@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../hooks"
+		},
+		{
+			"path": "../toodoolist"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hooks"
+	}
+}
